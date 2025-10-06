@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ABCRetailPOE.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7264",
+      "launchBrowser": false
+    }
+  }
+}
